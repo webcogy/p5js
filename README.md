@@ -13,3 +13,6 @@
 
 - p5 내부 라이브러리
   https://p5js.org/ko/libraries/
+
+- p5 + ml5 머신러닝 라이브러리
+  https://wikidocs.net/102734
