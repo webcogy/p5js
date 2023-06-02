@@ -24,7 +24,7 @@ let obj;
 let y=0;
 
 function preload(){
-  obj = loadModel('data/IronMan.obj');  
+  obj = loadModel('data/IronMan.obj');
 }
 
 function setup() {

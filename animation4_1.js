@@ -4,12 +4,12 @@ let img;
 let x=300, y=400;
 
 function setup() {
-    createCanvas(600, 400);
+    createCanvas(600, 400); // 600 x 400 캔버스 생성
     img = loadImage('data/bird2.png', circlePixel); 
 }
 
 function draw(){
-    background(0);
+    background(0); // 
     circlePixel();
     fill(255, 0, 0, 100);
     circle(x, y, 50);
